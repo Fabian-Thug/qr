@@ -1,0 +1,15 @@
+PODS:
+  - MTBBarcodeScanner (5.0.3)
+  - QRCodeReader.swift (8.1.1)
+
+DEPENDENCIES:
+  - MTBBarcodeScanner
+  - QRCodeReader.swift (~> 8.1.1)
+
+SPEC CHECKSUMS:
+  MTBBarcodeScanner: 3ce0f1b0085ef00c726ded663c490a63b29c9aa5
+  QRCodeReader.swift: b164a681887de276d405ff02bce854d82cd6360b
+
+PODFILE CHECKSUM: 98f26f26a0c3402202ab898f6392399eda5e8906
+
+COCOAPODS: 1.4.0
